@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace pos_projekt
+namespace pos_project
 {
     class Program
     {
